@@ -1,0 +1,14 @@
+/Users/santiagojuarez/playground/roadmap/Languages/cs/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/santiagojuarez/playground/roadmap/Languages/cs/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/santiagojuarez/playground/roadmap/Languages/cs/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/santiagojuarez/playground/roadmap/Languages/cs/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/santiagojuarez/playground/roadmap/Languages/cs/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/santiagojuarez/playground/roadmap/Languages/cs/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiagojuarez/playground/roadmap/Languages/cs/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/santiagojuarez/playground/roadmap/Languages/cs/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/santiagojuarez/playground/roadmap/Languages/cs/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/santiagojuarez/playground/roadmap/Languages/cs/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/santiagojuarez/playground/roadmap/Languages/cs/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/santiagojuarez/playground/roadmap/Languages/cs/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/santiagojuarez/playground/roadmap/Languages/cs/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/santiagojuarez/playground/roadmap/Languages/cs/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
