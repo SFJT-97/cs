@@ -12,3 +12,4 @@
 /Users/santiagojuarez/playground/roadmap/Languages/cs/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
 /Users/santiagojuarez/playground/roadmap/Languages/cs/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
 /Users/santiagojuarez/playground/roadmap/Languages/cs/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
+/Users/santiagojuarez/playground/roadmap/Languages/cs/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
